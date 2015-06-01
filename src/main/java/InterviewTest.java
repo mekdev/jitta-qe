@@ -19,7 +19,6 @@ public class InterviewTest {
         System.out.println("Fib result : " + result.toString());
     }
 
-
     /**
      * Returns fib number of input
      * @param n
@@ -35,8 +34,5 @@ public class InterviewTest {
             return fib(n - 1) + fib(n - 2);
         }
     }
-
-
-
 
 }
